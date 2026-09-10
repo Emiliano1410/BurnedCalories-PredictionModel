@@ -1,4 +1,4 @@
-# Regresión Lineal Multivariable sin el uso de un Framework — Predicción de Calorías Quemadas
+# Regresión Lineal y Random Forest — Predicción de Calorías Quemadas
 
 Proyecto introductorio de la concentración de **Inteligencia Artificial Avanzada para la Ciencia de Datos**.
 
