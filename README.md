@@ -10,7 +10,7 @@ Este proyecto implementa un modelo de regresión lineal multivariable **sin el u
 
 Este repositorio incluye únicamente:
 
-- **Código fuente** del proyecto en un archivo `.py`.
+- **Códigos fuente** del proyecto en archivos `.py`.
 - **Paper** del proyecto en formato `.pdf`, con el reporte completo del análisis, la metodología y los resultados obtenidos.
 
 ## Requisitos
@@ -19,3 +19,4 @@ Este repositorio incluye únicamente:
 - pandas
 - numpy
 - matplotlib
+- scikit-learn
